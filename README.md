@@ -23,7 +23,8 @@
 * jQuery UI
 * Moment.js
 
-# Screenshots
+# Screenshot
+<img width="1440" alt="Screen Shot 2022-05-22 at 9 40 29 PM" src="https://user-images.githubusercontent.com/100550961/169734286-2c0d4344-c846-48ba-a4fe-6e8980b381a7.png">
 
 # Links
  https://deromuald.github.io/work-day-scheduler/
@@ -32,6 +33,7 @@
 # Acknowledgements
 ### This project was inspired by the UM Coding Boot Camp.
 ### Mockup:
+![05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/100550961/169734433-cc54a27b-6929-49d3-88e3-f4d39432f61b.gif)
 
 
 
